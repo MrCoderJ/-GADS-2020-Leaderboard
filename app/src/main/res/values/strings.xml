@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GADPROJECT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">LEADERBOARD</string>
+    <string name="submit">Submit</string>
+    <string name="first_name">First Name</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="github">Project on GITHUB(link)</string>
+    <string name="firstName">First Name Required</string>
+    <string name="lastName">Last Name Required</string>
+    <string name="githubName">Github link is required</string>
+    <string name="emailAddress">Email Address is required</string>
+    <string name="close">Close</string>
+</resources>
